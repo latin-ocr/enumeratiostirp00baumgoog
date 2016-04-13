@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./enumeratiostirp00baumgoog_0039.png"; bbox 0 0 2767 4711; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 200 1770 2304 2349">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 200 1770 2488 2349">
+     <span class='ocr_line' id='line_1_1' title="bbox 627 1770 1723 1978; baseline -0.004 -60"><span class='ocrx_word' id='word_1_1' title='bbox 627 1770 1723 1978; x_wconf 62' lang='lat' dir='ltr'>CLASSJSL</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 200 2046 2304 2349; baseline -0.004 -76"><span class='ocrx_word' id='word_1_2' title='bbox 200 2046 1016 2315; x_wconf 77' lang='lat' dir='ltr'>MONA</span> <span class='ocrx_word' id='word_1_3' title='bbox 1145 2139 1283 2270; x_wconf 83' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_4' title='bbox 1393 2090 1929 2349; x_wconf 68' lang='lat' dir='ltr'>nm</span> <span class='ocrx_word' id='word_1_5' title='bbox 2028 2130 2186 2265; x_wconf 84' lang='lat' dir='ltr'>A-</span> <span class='ocrx_word' id='word_1_6' title='bbox 2301 2166 2304 2169; x_wconf 33' lang='lat'>¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 809 2609 1500 2636">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 809 2609 1500 2636">
+     <span class='ocr_line' id='line_1_3' title="bbox 809 2609 1500 2636; baseline -0.003 -2"><span class='ocrx_word' id='word_1_7' title='bbox 809 2609 1500 2636; x_wconf 47' lang='lat' dir='ltr'>’ffl—</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
